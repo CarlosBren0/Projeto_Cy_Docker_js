@@ -27,10 +27,8 @@ Este projeto tem como objetivo subir um ambiente completo de **monitoramento** u
 ├── grafana/
 │   └── data
 └── README.md
-<img width="1013" height="517" alt="image" src="https://github.com/user-attachments/assets/e9dba85c-65e7-4676-8f69-b932875ce6ab" />
-
-
 ```
+<img width="1013" height="517" alt="image" src="https://github.com/user-attachments/assets/387ab412-1c59-4e06-8a0c-70f04175e734" />
  
 ---
 
